@@ -1,2 +1,3 @@
 # hello-world
-just to understand
+just to understand how it works
+
